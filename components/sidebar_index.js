@@ -1,4 +1,4 @@
-import Sidebar from "temp.js";
+import Sidebar from "sidebar.js";
 import './sidebar.css';
 ReactDOM.render(
     <Sidebar width={300} height={300}>
