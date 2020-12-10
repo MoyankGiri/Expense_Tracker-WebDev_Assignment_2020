@@ -1,11 +1,6 @@
-# MERN Expense Tracker
+# Expense Tracker using MERN stack
 
 An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
-
-![MERN Expense Tracker](https://mernbook.s3.amazonaws.com/git+/expensetracker.png "MERN Expense Tracker")
-
-![MERN Expense Tracker Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "MERN Expense Tracker Graphs")
-<!-- ### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton") -->
 
 #### What you need to run this code
 1. Node (13.12.0)
@@ -19,3 +14,10 @@ An expense tracking application with data visualization - developed using React,
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
+
+
+## Project by :
+1. Moyank Giri , PES1UG19CS280
+2. Parimala S - PES1UG19CS323
+3. Moulya T - PES1UG19CS279 
+
